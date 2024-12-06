@@ -1,0 +1,2 @@
+# Ada Array Slice Assignment Bug
+This example demonstrates a common error in Ada when working with array slices.  Unlike some languages, Ada does not allow direct assignment to an array slice.  The provided code shows the incorrect attempt and the correct method for assigning values to a portion of an array.
